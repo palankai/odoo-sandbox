@@ -13,3 +13,6 @@
 [submodule "submodules/odoo-oauth2-swagger"]
 	path = submodules/odoo-oauth2-swagger
 	url = git@github.com:palankai/odoo-oauth2-swagger.git
+[submodule "submodules/odoo-restful"]
+	path = submodules/odoo-restful
+	url = git@github.com:palankai/odoo-restful.git
