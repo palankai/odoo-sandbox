@@ -1,0 +1,15 @@
+[submodule "submodules/json-serializer"]
+	path = submodules/json-serializer
+	url = git@github.com:palankai/json-serializer.git
+[submodule "submodules/odoo-oauth2"]
+	path = submodules/odoo-oauth2
+	url = git@github.com:palankai/odoo-oauth2.git
+[submodule "submodules/odoo-swaggerui"]
+	path = submodules/odoo-swaggerui
+	url = git@github.com:palankai/odoo-swaggerui.git
+[submodule "submodules/odoo-swagger"]
+	path = submodules/odoo-swagger
+	url = git@github.com:palankai/odoo-swagger.git
+[submodule "submodules/odoo-oauth2-swagger"]
+	path = submodules/odoo-oauth2-swagger
+	url = git@github.com:palankai/odoo-oauth2-swagger.git
